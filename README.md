@@ -1,2 +1,2 @@
-# Seacrch-Engine-Using-PHP-MYSQL
+# Search-Engine-Using-PHP-MYSQL
 simple search engine using php and mysql
